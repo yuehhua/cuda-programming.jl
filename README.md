@@ -1,3 +1,3 @@
 # CUDA programming in Julia
 
-A tutorial for CDUA programming in Julia.
+A tutorial for CUDA programming in Julia.
